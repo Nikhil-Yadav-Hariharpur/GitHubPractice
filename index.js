@@ -8,3 +8,10 @@ console.log(age);
  let account_balance=0;
  console.log(account_balance);
   console.log(account_number);
+//third commit in master
+
+function deposite(deposite){
+    account_balance+=deposite;
+  }
+  deposite(123);
+  //first commit in payment
