@@ -14,4 +14,9 @@ function deposite(deposite){
     account_balance+=deposite;
   }
   deposite(123);
-  //first commit in payment
+  //fourth commit in master
+   function withdral(withdral){
+    account_balance-=withdral;
+  }
+  withdral(132);
+  //second commit in  payment
