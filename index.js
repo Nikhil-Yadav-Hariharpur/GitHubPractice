@@ -19,4 +19,15 @@ function deposite(deposite){
     account_balance-=withdral;
   }
   withdral(132);
-  //second commit in  payment
+  //second commit in  master
+
+  console.log("add payment Gateway");
+  const upi_id=3489058093;
+ const bank_name="sbi";
+ const Ifsc_code="uieri";
+ //first gatway
+ const obj={
+    bank_detail:"usdfh",
+    loan:9289489
+ }
+ //second gateway
