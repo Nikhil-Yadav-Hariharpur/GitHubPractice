@@ -25,3 +25,9 @@ function deposite(deposite){
   const upi_id=3489058093;
  const bank_name="sbi";
  const Ifsc_code="uieri";
+ //first gatway
+ const obj={
+    bank_detail:"usdfh",
+    loan:9289489
+ }
+ //second gateway
